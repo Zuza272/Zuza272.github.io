@@ -1,0 +1,45 @@
+.nadpis {
+    background: azure;
+    font-size: 64px;
+    text-decoration: underline;
+}
+.odstavec{
+background: red;
+font-size: 30px;
+color: white;
+text-align: center;
+}
+.paragraf{
+background: blueviolet;
+font-size: 35px;
+text-align: left;
+text-decoration: line-through;
+color: white;
+}
+.nadpis2{
+    background: lightpink;
+    color: gold;
+    font-size: 40px;
+}
+.bla{
+    background: lightseagreen;
+    color: rgb(255, 1, 200);
+    font-size: 33px;
+}
+.cokoliv{
+    color: rgb(0, 255, 0);
+    background: lightsalmon;
+    font-size: 33px;
+}
+.sport{
+    color: aqua;
+    background:black;
+}
+.úkol{
+    color: deeppink;
+    background:deepskyblue ;
+}
+.pagecontent{
+   max-width: 1152px;
+   margin: 0 auto; 
+}
